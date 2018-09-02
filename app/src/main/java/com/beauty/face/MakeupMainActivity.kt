@@ -7,7 +7,7 @@ import com.tzutalin.dlib.FaceDet
 
 class MakeupMainActivity : AppCompatActivity() {
 
-    internal var mFaceDet: FaceDet? = null
+    private lateinit var mFaceDet: FaceDet
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
