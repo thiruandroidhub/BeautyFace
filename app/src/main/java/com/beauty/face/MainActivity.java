@@ -7,6 +7,7 @@ package com.beauty.face;
 
 import android.support.v7.app.AppCompatActivity;
 
+// TODO - DELETE Once we detect landmarks using dlib
 public class MainActivity extends AppCompatActivity {
 //    private static final int RESULT_LOAD_IMG = 1;
 //    private static final int REQUEST_CODE_PERMISSION = 2;

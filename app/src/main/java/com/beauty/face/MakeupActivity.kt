@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity
 import com.tzutalin.dlib.Constants
 import com.tzutalin.dlib.FaceDet
 
-class MakeupMainActivity : AppCompatActivity() {
+class MakeupActivity : AppCompatActivity() {
 
     private lateinit var mFaceDet: FaceDet
 
